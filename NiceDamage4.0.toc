@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: |cff88aaffNice|r|cffffffDamage|r
+## Notes: Dual font selector for floating combat text. /nd to open.
+## Author: Nidhaus
+## Version: 4.0
+## DefaultState: Enabled
+## SavedVariables: NiceDamageDB
+
+NiceDamage.lua
