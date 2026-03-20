@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/26131275/README.md)
 # NiceDamage 4.0
 
 A lightweight World of Warcraft addon (WotLK 3.3.0) that lets you pick custom fonts for your floating combat text — separately for **damage** and **heals/auras**.
